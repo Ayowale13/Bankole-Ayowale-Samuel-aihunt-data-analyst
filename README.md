@@ -18,4 +18,4 @@ Bankole Ayowale Samuel
 
 ## Notes
 
-All answers were calculated manually or implemented in Python/SQL as required.
+All answers were calculated manually in Python/SQL as required.
